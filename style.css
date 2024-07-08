@@ -1,0 +1,17 @@
+/* styles.css */
+
+body {
+  color: #D2B48C; /* Light Brown */
+}
+
+h1, h2 {
+  color: #8B4513; /* Dark Brown */
+}
+
+p, ul, li, label, input, form {
+  color: #D2B48C; /* Light Brown */
+}
+
+a {
+  color: #8B4513; /* Dark Brown */
+}
